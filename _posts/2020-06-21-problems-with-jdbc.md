@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'The issues with with JDBC'
+title: 'The issues with JDBC'
 tags: [programming, java]
 ---
 
