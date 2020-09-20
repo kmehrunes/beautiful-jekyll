@@ -3,8 +3,7 @@ layout: page
 title: About me
 ---
 
-A software engineer based in Ireland who likes building things and solving
-problems. I have had one entrepreneurial venture in the past and still planning my
-next future one.
+Just your typical software engineer who is also into investing in the 
+stock market, business, and entrepreneurship.
 
 I'm always excited to talk to people so feel free to shoot me a message.
